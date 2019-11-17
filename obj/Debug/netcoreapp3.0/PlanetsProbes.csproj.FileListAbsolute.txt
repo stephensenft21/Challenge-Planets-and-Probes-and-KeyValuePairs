@@ -1,0 +1,11 @@
+C:\Users\NSS31\workspaceC-35\PlanetsProbes\obj\Debug\netcoreapp3.0\PlanetsProbes.csprojAssemblyReference.cache
+C:\Users\NSS31\workspaceC-35\PlanetsProbes\obj\Debug\netcoreapp3.0\PlanetsProbes.AssemblyInfoInputs.cache
+C:\Users\NSS31\workspaceC-35\PlanetsProbes\obj\Debug\netcoreapp3.0\PlanetsProbes.AssemblyInfo.cs
+C:\Users\NSS31\workspaceC-35\PlanetsProbes\bin\Debug\netcoreapp3.0\PlanetsProbes.exe
+C:\Users\NSS31\workspaceC-35\PlanetsProbes\bin\Debug\netcoreapp3.0\PlanetsProbes.deps.json
+C:\Users\NSS31\workspaceC-35\PlanetsProbes\bin\Debug\netcoreapp3.0\PlanetsProbes.runtimeconfig.json
+C:\Users\NSS31\workspaceC-35\PlanetsProbes\bin\Debug\netcoreapp3.0\PlanetsProbes.runtimeconfig.dev.json
+C:\Users\NSS31\workspaceC-35\PlanetsProbes\bin\Debug\netcoreapp3.0\PlanetsProbes.dll
+C:\Users\NSS31\workspaceC-35\PlanetsProbes\bin\Debug\netcoreapp3.0\PlanetsProbes.pdb
+C:\Users\NSS31\workspaceC-35\PlanetsProbes\obj\Debug\netcoreapp3.0\PlanetsProbes.dll
+C:\Users\NSS31\workspaceC-35\PlanetsProbes\obj\Debug\netcoreapp3.0\PlanetsProbes.pdb
